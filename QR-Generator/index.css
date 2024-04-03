@@ -32,10 +32,11 @@ body{
 }
 
 .container button{
-    min-width: 40%;
+    min-width: 35%;
+    height: 50px;
     padding: 12px;
     font-weight: 600;
-    border-radius: 10px;
+    border-radius: 40px;
     border: none;
     background-color: rgb(76, 77, 78);
     color: white;
@@ -44,7 +45,8 @@ body{
 }
 
 .container button:hover{
-    background-color: rgb(231, 230, 230);
+    background-color: rgb(196, 200, 207);
+    border: 2px solid black;
     color: black;
 }
 
