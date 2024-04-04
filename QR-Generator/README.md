@@ -1,5 +1,5 @@
 # Welcome to QR Generator Project
-This project provides a simple yet powerful QR generator tool. Enter any URL or text to convert it into a QR Code. It utilises GOQR's API to help generate the QR codes. The design is responsive and is coded using best practices.
+This project provides a simple yet powerful QR generator tool. Simply enter the desired URL or text, and instantly receive a corresponding QR code. It utilises GOQR's API to help generate the QR codes. The design is responsive and is coded using best practices.
 
 ### Screenshots
 ![Site Image](<assets/Image1.png>)
