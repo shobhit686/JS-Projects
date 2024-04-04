@@ -21,6 +21,7 @@ body{
     border-radius: 20px;
     width: 35vw;
     margin-top: 10vh;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
 .container input{
@@ -46,7 +47,7 @@ body{
 
 .container button:hover{
     background-color: rgb(196, 200, 207);
-    border: 2px solid black;
+    outline: 2px solid black;
     color: black;
 }
 
