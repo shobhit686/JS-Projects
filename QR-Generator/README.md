@@ -2,7 +2,7 @@
 This project provides a simple yet powerful QR generator tool. Enter any URL or text to convert it into a QR Code. The design is responsive and is coded using best practices.
 
 ### Screenshots
-![Site Image](<assets/Readme/Image1.png>)
+![Site Image](<assets/Image1.png>)
 
 ### How to Setup and Run the Project
     1. Clone or download the repository in your local system
